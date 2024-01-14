@@ -3,15 +3,14 @@
 
 This is hello world in python the purpose of this project was to explore different IDE's and languages.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ACBJ-voaeYQ)
 
 # Development Environment
 
 * python 3.12.1
 * visual studio code
-*  Git/Github
+* Git/Github
 
 
 # Useful Websites
